@@ -15,7 +15,8 @@ The core innovation is the **Customer Personalization Genome**: a continuously e
 
 ## Architecture
 
-![ALPF Architecture](architecture.png)
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/bec1df63-1f9d-40eb-b552-f6d3047fabeb" />
+
 
 ### Eight-Layer Event-Driven Pipeline
 
